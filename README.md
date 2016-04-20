@@ -1,0 +1,2 @@
+# myown-resources
+common resources
